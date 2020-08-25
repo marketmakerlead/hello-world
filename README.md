@@ -1,6 +1,6 @@
 ### Hi there, I'm Mike - CEO & Founder of [marketmakerleads][website] 👋
 
-- 🔭 I’m currently working on [Marketmakerleads][website]!
+- 🔭 Check my website [Marketmakerleads][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -10,7 +10,7 @@
 [twitter]: https://twitter.com/marketmakercall
 [youtube]: https://www.youtube.com/channel/UCJyUM2QMQE_Pgi_ZvCgU7AA
 [instagram]: https://www.instagram.com/marketmakerre
-<br>
+
 ### Connect with me:
 
 [<img align="left" alt="marketmakerleads.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -18,7 +18,7 @@
 [<img align="left" alt="marketmakerleads | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="marketmakerleads | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
----
+
 
 ### 📺 Latest YouTube Videos
 
@@ -32,4 +32,3 @@
 ➡️ [more videos...](https://www.youtube.com/channel/UCJyUM2QMQE_Pgi_ZvCgU7AA)
 
 ---
-</br>
